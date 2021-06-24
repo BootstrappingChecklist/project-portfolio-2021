@@ -1,2 +1,5 @@
-# boostrapping-checklist-2021-portfolio
-The Bootstrapping Checklist 2021 Portfolio
+# The Bootstrapping Checklist 2021 Portfolio
+
+## Projects Include:
+- [SmartGOGS](/projects/smartGOGS.pdf)
+- [Forget the Score](/projects/Forget-The-Score.pdf)
